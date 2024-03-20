@@ -1,0 +1,19 @@
+header div{
+    display: flex;
+    justify-content: space-between;
+}
+.container>div{
+    display: flex;
+    width: 80vw;
+    height: 80vh;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+footer{
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+}
+main{
+    height: 83vh;
+}
